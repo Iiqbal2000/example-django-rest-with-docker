@@ -1,6 +1,6 @@
 # example-django-rest-with-docker
 
-## Contoh konfigurasi ada di file masing2
+### Contoh konfigurasi ada di file masing-masing.
 
 ##### :horse: Build dengan docker compose :
 ```bash
