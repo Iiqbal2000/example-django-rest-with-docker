@@ -37,3 +37,8 @@ docker-compose up
 ```bash
 docker-compose run web bash
 ```
+
+##### :cat2: Run pip install :
+```bash
+docker-compose run web pip install [nama package]
+```
