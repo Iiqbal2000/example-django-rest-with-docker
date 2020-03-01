@@ -32,3 +32,8 @@ docker-compose up -d web
 ```bash
 docker-compose up
 ```
+
+##### :boom: Run bash :
+```bash
+docker-compose run web bash
+```
